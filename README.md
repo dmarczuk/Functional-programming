@@ -10,38 +10,38 @@ przyporzadkowana do kilku liter (tzn np A=1, B=1)
 
 ## Przykladowy plik wejsciowy (file.txt)
 
-A+B=AC
-A+B+C=AC
-KTO+KOT=TOK
-POL+POL=CALA
-U*ULI=LIS
-AB*B*C=DA
+A+B=AC__
+A+B+C=AC__
+KTO+KOT=TOK__
+POL+POL=CALA__
+U*ULI=LIS__
+AB*B*C=DA__
 
 Wyjscie
 
-A+B=AC
-1+9=10
+A+B=AC__
+1+9=10__
 
-A+B+C=AC
-1+9+0=10
-1+9+2=12
-1+9+3=13
-1+9+4=14
-1+9+5=15
-1+9+6=16
-1+9+7=17
-1+9+8=18
+A+B+C=AC__
+1+9+0=10__
+1+9+2=12__
+1+9+3=13__
+1+9+4=14__
+1+9+5=15__
+1+9+6=16__
+1+9+7=17__
+1+9+8=18__
 
-KTO+KOT=TOK
-495+459=954
+KTO+KOT=TOK__
+495+459=954__
 
-POL+POL=CALA
-237+237=0474
-924+924=1848
+POL+POL=CALA__
+237+237=0474__
+924+924=1848__
 
-U*ULI=LIS
-2*249=498
+U*ULI=LIS__
+2*249=498__
 
-AB*B*C=DA
-04*4*5=80
-42*2*1=84
+AB*B*C=DA__
+04*4*5=80__
+42*2*1=84__
