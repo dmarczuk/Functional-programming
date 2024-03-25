@@ -3,45 +3,45 @@
 ## Opis projektu
 
 Wczytujemy z pliku dzialania dodawania i mnozenia w postaci liter
-i wypisujemy wszystkie mozliwe rozwiazania (podstawienia cyfry za liczby, ktore daja poprawne dzialanie)
+i wypisujemy wszystkie mozliwe rozwiazania (podstawienia cyfry za liczby, ktore daja poprawne dzialanie)<br>
 1-sza wersja rozwiazania(zakomentowana) jest dla zalozenia ze jedna cyfra moze byc  
 przyporzadkowana do kilku liter (tzn np A=1, B=1)
 2-ga wersja zaklada ze kazda litera musi miec inna cyfre
 
 ## Przykladowy plik wejsciowy (file.txt)
 
-A+B=AC__
-A+B+C=AC__
-KTO+KOT=TOK__
-POL+POL=CALA__
-U*ULI=LIS__
-AB*B*C=DA__
+A+B=AC<br>
+A+B+C=AC<br>
+KTO+KOT=TOK<br>
+POL+POL=CALA<br>
+U*ULI=LIS<br>
+AB*B*C=DA<br><br>
 
-Wyjscie
+Wyjscie<br><br>
 
-A+B=AC__
-1+9=10__
+A+B=AC<br>
+1+9=10<br><br>
 
-A+B+C=AC__
-1+9+0=10__
-1+9+2=12__
-1+9+3=13__
-1+9+4=14__
-1+9+5=15__
-1+9+6=16__
-1+9+7=17__
-1+9+8=18__
+A+B+C=AC<br>
+1+9+0=10<br>
+1+9+2=12<br>
+1+9+3=13<br>
+1+9+4=14<br>
+1+9+5=15<br>
+1+9+6=16<br>
+1+9+7=17<br>
+1+9+8=18<br><br>
 
-KTO+KOT=TOK__
-495+459=954__
+KTO+KOT=TOK<br>
+495+459=954<br><br>
 
-POL+POL=CALA__
-237+237=0474__
-924+924=1848__
+POL+POL=CALA<br>
+237+237=0474<br>
+924+924=1848<br><br>
 
-U*ULI=LIS__
-2*249=498__
+U*ULI=LIS<br>
+2*249=498<br><br>
 
-AB*B*C=DA__
-04*4*5=80__
-42*2*1=84__
+AB*B*C=DA<br>
+04*4*5=80<br>
+42*2*1=84<br>
