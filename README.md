@@ -14,8 +14,8 @@ A+B=AC<br>
 A+B+C=AC<br>
 KTO+KOT=TOK<br>
 POL+POL=CALA<br>
-U*ULI=LIS<br>
-AB*B*C=DA<br><br>
+U\*ULI=LIS<br>
+AB\*B\*C=DA<br><br>
 
 Wyjscie<br><br>
 
@@ -39,9 +39,9 @@ POL+POL=CALA<br>
 237+237=0474<br>
 924+924=1848<br><br>
 
-U*ULI=LIS<br>
+U\*ULI=LIS<br>
 2*249=498<br><br>
 
-AB*B*C=DA<br>
+AB\*B\*C=DA<br>
 04*4*5=80<br>
 42*2*1=84<br>
